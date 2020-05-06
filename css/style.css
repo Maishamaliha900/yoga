@@ -1,0 +1,609 @@
+*{
+	padding:0px;
+	margin:0px;
+}
+body{
+	font-family: Open Sans;
+	font-size: 14px;
+	line-height: 24px;
+}
+h1,h2,h3,h4,h5,h6{
+	font-family: Open Sans;
+}
+a, a:hover{
+	text-decoration: none;
+}
+html{
+    scroll-behavior: smooth;
+}
+/*********************header-section start*******************/
+.header-section{
+	width:100%;
+	padding: 0px 0px;
+	background: url(../img/full.jpg)center top no-repeat;
+	background-size: cover;
+}
+.header-section .bg-light{
+	background:transparent!important;	
+}
+.header-section .navbar-light .navbar-nav .nav-link {
+    color: rgba(0,0,0,.5);
+    font-size: 18px;
+    font-weight: 500;
+    margin-left: 40px;
+    margin-top: 10px;
+}
+.header-section .navbar-light .navbar-nav .nav-link:hover{
+	color:#F1C9C4;
+	transition: 1s;
+}
+/*********************header-section end*******************/
+
+/*********************banner-section start*******************/
+
+.banner {
+    width: 100%;
+    padding: 0px 0px;
+}
+.banner img {
+    margin-left: -80px;
+    margin-top: 85px;
+}
+.banner .banner-inner h1 {
+    font-size: 52px;
+    color: #484f5b;
+    font-weight: 600;
+    line-height: 60px;
+    margin-left: 90px;
+    margin-top: 233px;
+    
+}
+
+.banner .banner-inner p {
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 30px;
+    color: #484f5b;
+    margin-top: 35px;
+    margin-left: 90px;
+    margin-bottom: 45px;
+}
+.banner .btn-primary {
+    color: #fff;
+    background-color: #f1c9c4;
+    border:transparent;
+    font-size: 16px;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin-left: 90px;
+}
+.banner .btn-primary:hover{
+	background-color:transparent;
+	color:#484f5b;
+	border:1px solid #f1c9c4;
+	transition: 1s;
+}
+/*********************banner-section end*******************/
+
+/*********************pregnant-woman-section start*******************/
+
+.pregnant-woman {
+    width: 100%;
+    padding: 210px 0px;
+    background: url(../img/Image2.png)center left no-repeat;
+    background-size: cover;
+}
+.pregnant-woman h1 {
+    font-size: 52px;
+    color: #484f5b;
+    font-weight: 600;
+    line-height: 60px;    
+    margin-top: 100px;
+    
+}
+
+.pregnant-woman p {
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 30px;
+    color: #484f5b;
+    margin-top: 35px;   
+    margin-bottom: 45px;
+}
+.pregnant-woman .btn-primary {
+    color: #fff;
+    background-color: #f1c9c4;
+    border:transparent;
+    font-size: 16px;
+    font-weight: 600;
+    text-transform: uppercase;
+   
+}
+.pregnant-woman .btn-primary:hover{
+	background-color:transparent;
+	color:#484f5b;
+	border:1px solid #f1c9c4;
+	transition: 1s;
+}
+
+/*********************pregnant-woman-section end*******************/
+
+/*********************program-section start*******************/
+
+.program {
+    width: 100%;
+    padding: 120px;
+    text-align: center;
+    
+}
+
+.program .program-part1 img{
+	margin-top: 50px;
+}
+.program .program-part1 h4 {
+    font-size: 30px;
+    font-weight: 700;
+    color: #484f5b;
+    margin-top: 30px;
+}
+.program .program-part1 p {
+    font-size: 16px;
+    font-weight: 500;
+    color: #484f5b;
+    margin-top: 12px;
+}
+
+.program .program-part2 h4{
+	font-size: 30px;
+    font-weight: 700;
+    color: #484f5b;
+    margin-top: 30px;        
+}
+.program .program-part2 p{
+	font-size: 16px;
+    font-weight: 500;
+    color: #484f5b;
+    margin-top: 12px;       
+}
+
+.program .program-part3 h4{
+	font-size: 30px;
+    font-weight: 700;
+    color: #484f5b;
+    margin-top: 30px;        
+}
+.program .program-part3 p{
+	font-size: 16px;
+    font-weight: 500;
+    color: #484f5b;
+    margin-top: 12px;        
+}
+
+/*********************program-section end*******************/
+
+/*********************breathing-section start*******************/
+
+.breathing{
+	width:100%;
+	padding: 80px 0px;
+}
+.breathing h1 {
+    font-size: 52px;
+    color: #484f5b;
+    font-weight: 600;
+    line-height: 60px;    
+    margin-top: 100px;
+    
+}
+
+.breathing p {
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 30px;
+    color: #484f5b;
+    margin-top: 35px;   
+    margin-bottom: 45px;
+}
+.breathing .btn-primary {
+    color: #fff;
+    background-color: #f1c9c4;
+    border:transparent;
+    font-size: 16px;
+    font-weight: 600;
+    text-transform: uppercase;
+   
+}
+.breathing .btn-primary:hover{
+	background-color:transparent;
+	color:#484f5b;
+	border:1px solid #f1c9c4;
+	transition: 1s;
+}
+
+/*********************breathing-section end*******************/
+
+/*********************off-section-section start*******************/
+
+.off-section{
+	width:100%;
+	padding: 142px 0px;
+	background: url(../img/Image4.png)center top no-repeat;
+	background-size: cover;
+}
+.off-section h1 {
+    font-size: 52px;
+    color: #484f5b;
+    font-weight: 600;
+    line-height: 60px;    
+    margin-top: 100px;
+    
+}
+
+.off-section p {
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 30px;
+    color: #484f5b;
+    margin-top: 35px;   
+    margin-bottom: 45px;
+}
+.off-section .btn-primary {
+    color: #fff;
+    background-color: #f1c9c4;
+    border:transparent;
+    font-size: 16px;
+    font-weight: 600;
+    text-transform: uppercase;
+   
+}
+.off-section .btn-primary:hover{
+	background-color:transparent;
+	color:#484f5b;
+	border:1px solid #f1c9c4;
+	transition: 1s;
+}
+/*********************off-section-section end*******************/
+
+/*********************galery-section start*******************/
+
+.galery{
+	width:100%;
+	padding: 0px 0px;
+	text-align: center;
+}
+
+.galery h1{
+	font-size: 52px;
+    color: #484f5b;
+    font-weight: 600;
+    line-height: 60px;    
+    margin-top: 100px;
+}
+.galery p{
+	font-size: 18px;
+    font-weight: 500;
+    line-height: 30px;
+    color: #484f5b;
+    margin-top: 35px;   
+    margin-bottom: 55px;
+}
+.galery .card-body {
+    width: 100%;
+    box-shadow: 2px 4px 10px;
+}
+.galery .card-body h5{
+	font-size: 30px;
+    font-weight: 700;
+    color: #484f5b;
+    margin-top: 30px;        
+}
+.galery .card-body p{
+	font-size: 16px;
+    font-weight: 500;
+    color: #484f5b;
+    margin-top: 12px;
+    margin-bottom: 30px;        
+}
+
+/*********************galery-section end*******************/
+
+/*********************training-section start*******************/
+.training{
+	width:100%;
+	padding: 80px 0px;
+
+}
+
+.training img {
+    margin-left: -46px;
+    margin-top: 180px;
+}
+.training .training-part2 {
+    width: 100%;
+    margin-left: 100px;
+    margin-top: 250px;
+}
+.training .training-part2 h1{
+	font-size: 52px;
+    color: #484f5b;
+    font-weight: 600;
+    line-height: 60px;    
+    margin-top: 100px;
+    margin-left: 10px;
+}
+.training .training-part2 p{
+	font-size: 16px;
+    font-weight: 500;
+    color: #484f5b;
+    margin-top: 12px;
+    margin-bottom: 30px;
+    margin-left: 10px;  
+}
+.training .training-part2 .social-icons{
+	width:100%;
+	margin:5px;
+}
+.training .training-part2 .social-icons a i{
+	font-size: 30px;
+	color:#fff;
+	text-align: center;
+	background: #484f5b;
+	border:1px solid #fff;
+	width:50px;
+	height:50px;
+	line-height: 50px;
+	border-radius: 5px;
+	margin-left: 10px;
+}
+.training .training-part2 .social-icons a i:hover{
+	background: transparent;
+	color:#000;
+	transition: 1s;
+}
+.training .play-button a i{
+	font-size: 70px;
+	color:#fff;
+	margin-top: 400px;
+	margin-left: -200px;
+}
+.training .play-button a i:hover{
+	color:#e5ccc6;
+	transition: 1s;
+}
+
+/*********************training-section end*******************/
+
+/*********************form-section start*******************/
+
+
+.form-section {
+    width: 100%;
+    padding: 167px 0px;
+    text-align: center;
+}
+.form-section h1{
+	font-size: 52px;
+    color: #484f5b;
+    font-weight: 600;
+    line-height: 60px;    
+    margin-top: 100px;
+    margin-left: 10px;
+}
+.form-section p{
+	font-size: 16px;
+    font-weight: 500;
+    color: #484f5b;
+    margin-bottom: 80px;
+    
+}
+.form-section .btn-primary {
+    color: #fff;
+    background-color: #f1c9c4;
+    border:transparent;
+    font-size: 16px;
+    font-weight: 600;
+    margin-top: 80px;
+    margin-left: 450px;
+    text-transform: uppercase;
+   
+}
+.form-section .btn-primary:hover{
+	background-color:transparent;
+	color:#484f5b;
+	border:1px solid #f1c9c4;
+	transition: 1s;
+}
+
+
+/*********************form-section end*******************/
+
+/*********************footer-section start*******************/
+
+
+.footer{
+	width:100%;
+	padding: 70px 0px;
+	background: #434E5B;
+}
+.footer h5{
+	font-size: 20px;
+    font-weight: 700;
+    color: #fff;
+    margin-top: 30px;        
+}
+.footer p{
+	font-size: 16px;
+    font-weight: 500;
+    color: #fff;
+    margin-top: 12px;
+    margin-bottom: 30px;        
+}
+.footer ul{
+	display: block;
+	margin:0px;
+}
+.footer ul li{
+	list-style: none;
+	margin-bottom: 5px;
+}
+.footer  li a{
+	font-size: 16px;
+	color:#fff;
+	font-weight: 500;
+}
+.footer ul li a:hover{
+	color:#000;
+	transition: 1s;
+}
+.footer .social-icons{
+	width:100%;
+	text-align: center;
+	margin-top: 30px;
+	margin-left: -55px;
+}
+.footer .social-icons a i{
+	font-size: 20px;
+	color:#000;
+	background: #fff;
+	border:1px solid #fff;
+	width:40px;
+	height:40px;
+	line-height: 40px;
+	border-radius: 5px;
+	margin-left: 10px;
+}
+.footer .social-icons a i:hover{
+	background: transparent;
+	color:#F2CEC9;
+	transition: 1s;
+}
+
+/*********************footer-section end*******************/
+
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+
+
+  /**CSS CODE START**/
+	.banner .banner-inner h1 {
+    font-size: 33px;    
+    margin-top: 32px;
+}
+	.header-section .navbar-light .navbar-nav .nav-link {    
+    font-size: 18px;    
+}
+	.pregnant-woman h1 {
+    font-size: 34px;
+    font-weight: 700;    
+}
+	.breathing h1 {
+    font-size: 36px;    
+}
+	.off-section h1 {
+    font-size: 45px;
+}
+	.training .training-part2 h1 {
+    font-size: 35px;    
+    font-weight: 700;    
+}
+	.form-section h1 {
+    font-size: 42px;
+    font-weight: 700;
+}
+.form-section .btn-primary {   
+    margin-left: 158px;    
+}
+	  
+  /**CSS CODE END**/
+
+  
+}
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+  	.header-section .navbar-light .navbar-nav .nav-link {   
+    font-size: 18px;
+    font-weight: 700;   
+}
+	.banner .banner-inner h1 {
+    font-size: 46px;
+}
+	.breathing h1 {
+    font-size: 43px;    
+}
+	.off-section h1 {
+    font-size: 49px;
+}
+ 	.training .training-part2 h1 {
+    font-size: 40px;
+    
+}	
+	.form-section .btn-primary {    
+    margin-left: 120px;  
+}
+
+}
+/* 
+  ##Device = Tablets, Ipads (landscape)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+	.banner .banner-inner h1 {
+    font-size: 30px;    
+    font-weight: 800;    
+}
+	.pregnant-woman h1 {
+    font-size: 35px;   
+    font-weight: 800;   
+}
+	.breathing h1 {
+    font-size: 40px;
+}
+    .off-section h1 {
+    font-size: 50px;    
+    line-height: 70px;    
+}
+  .training .training-part2 h1 {
+    font-size: 30px;
+}	
+    .banner img {
+    margin-left: -188px;
+}
+    .galery p {
+    font-size: 16px;
+    
+}
+  
+}
+/**plugin code goes here**/
+
+/**sticup code start**/
+
+.isStuck{
+    left:0px;
+    width:100%;
+    background: #9EC3E6;
+}
+.navbar-wrapper {
+  margin-top:0px;
+  position: relative;
+  z-index: 15;
+  width:100%;
+}
+.back-to-top {
+    cursor: pointer;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    display:block;
+}
